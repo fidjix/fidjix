@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fidjix
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python and c
-- 💞️ I’m looking to collaborate on ?
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : ig - @rchassagne
 
 <!---
